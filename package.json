@@ -1,5 +1,5 @@
 {
-  "name": "@chatscope/chat-ui-kit-styles",
+  "name": "@nortech/chat-ui-kit-styles",
   "version": "1.4.0",
   "description": "SCSS themes for @chatscope/chat-ui-kit-react library",
   "license": "MIT",
